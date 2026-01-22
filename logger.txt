@@ -1,0 +1,129 @@
+
+
+
+
+-------------------------------------------------------------
+# SESSION LOG
+Session date: 2024-12-08; Start time: 16:43:12
+During this session you used the following tools:
+
+WORD SAMPLE
+SELECTION: TEXT SAMPLE
+
+
+
+-------------------------------------------------------------
+# SESSION LOG
+Session date: 2024-12-08; Start time: 17:19:59
+During this session you used the following tools:
+
+WORD SAMPLE
+
+
+
+-------------------------------------------------------------
+# SESSION LOG
+Session date: 2024-12-10; Start time: 20:26:00
+During this session you used the following tools:
+
+
+
+
+-------------------------------------------------------------
+# SESSION LOG
+Session date: 2024-12-11; Start time: 11:23:51
+During this session you used the following tools:
+
+
+
+
+-------------------------------------------------------------
+# SESSION LOG
+Session date: 2024-12-11; Start time: 11:24:31
+During this session you used the following tools:
+
+SELECTION: WORD SEARCH
+SELECTION: CONCORDANCE
+SELECTION: SAMPLE BIGRAMS / COLLOCATIONS
+SELECTION: BIGRAM SEARCH
+SELECTION: BIGRAM SEARCH
+SELECTION: BIGRAM SEARCH
+SELECTION: BIGRAM SEARCH
+
+
+
+-------------------------------------------------------------
+# SESSION LOG
+Session date: 2024-12-11; Start time: 11:43:05
+During this session you used the following tools:
+
+SELECTION: BIGRAM SEARCH
+
+
+
+-------------------------------------------------------------
+# SESSION LOG
+Session date: 2026-01-21; Start time: 11:13:49
+During this session you used the following tools:
+
+
+
+
+-------------------------------------------------------------
+# SESSION LOG
+Session date: 2026-01-21; Start time: 11:14:57
+During this session you used the following tools:
+
+
+
+
+-------------------------------------------------------------
+# SESSION LOG
+Session date: 2026-01-21; Start time: 19:39:28
+During this session you used the following tools:
+
+WORD SAMPLE
+
+
+
+-------------------------------------------------------------
+# SESSION LOG
+Session date: 2026-01-21; Start time: 19:40:20
+During this session you used the following tools:
+
+
+
+
+-------------------------------------------------------------
+# SESSION LOG
+Session date: 2026-01-21; Start time: 19:41:04
+During this session you used the following tools:
+
+WORD SAMPLE
+
+
+
+-------------------------------------------------------------
+# SESSION LOG
+Session date: 2026-01-21; Start time: 19:41:08
+During this session you used the following tools:
+
+
+
+
+-------------------------------------------------------------
+# SESSION LOG
+Session date: 2026-01-21; Start time: 19:41:30
+During this session you used the following tools:
+
+WORD SAMPLE
+
+
+
+-------------------------------------------------------------
+# SESSION LOG
+Session date: 2026-01-21; Start time: 19:47:49
+During this session you used the following tools:
+
+WORD SAMPLE
+SELECTION: TEXT SAMPLE
