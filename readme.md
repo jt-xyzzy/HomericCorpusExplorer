@@ -1,5 +1,3 @@
-# README FOR THE HOMERIC CORPUS EXPLORER
-
 Prerequisites: TK/Tkinter
 
 ## QUICKSTART
@@ -20,7 +18,11 @@ python # to enter interactive mode
 import nltk
 nltk.download('all')
 
+<img width="1076" height="551" alt="image" src="https://github.com/user-attachments/assets/e0117b3a-cd7f-46e9-a9bd-fbdc923b529a" />
 
+## Demo Mode: Finding Similes
+
+<img width="1082" height="863" alt="image" src="https://github.com/user-attachments/assets/d9bd03f8-4e3d-466f-8950-9b407e7ab978" />
 
 ## TROUBLESHOOTING
 
